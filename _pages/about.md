@@ -25,60 +25,32 @@ redirect_from:
 <a href='https://scholar.google.com/citations?user=SCHOLAR_ID&user=_jENFHIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
-**2024.02.13:** 🎉🎉 Awarded **Educational Stipend Award** by 2024 ISMRM!
+**2024.2:** 🎉🎉 Our paper [A Comprehensive Dataset and Automated Pipeline for Nailfold Capillary Analysis](https://doi.org/10.48550/arXiv.2312.05930) has been accepted by [ISBI 2024](https://biomedicalimaging.org/2024/).
 
-**2024.01.26:** 🎉🎉 Our paper addressed [Fetal MRI image quality assessment](https://www.ismrm.org/24/accepted_abstracts.pdf) has been accepted by [ISMRM 2024](https://www.ismrm.org/24m/) as oral power pitch (top 13%).
+**2023.12:** 🎉🎉 Awarded **Best Presentation** at Tsinghua University Initiative Scientific Research Program Forum.
 
-**2024.01.26:** 🎉🎉 Our paper addressed [Fetal cortex reconstruction](https://www.ismrm.org/24/accepted_abstracts.pdf) has been accepted by [ISMRM 2024](https://www.ismrm.org/24m/).
+**2023.11:** Attended the AI Health Summit 2023 held in Singapore and posted a [poster](https://arxiv.org/abs/2311.12524) about AnomaLous Physiological Health Assessment Using Large Language Models. 
 
-**2023.12.12:** 🎉🎉 Our paper addressed [Image deblurring](https://hplqaq.github.io/projects/sam-deblur) has been accepted by [IEEE ICASSP 2024](https://2024.ieeeicassp.org/).
+**2023.11:** 🎉🎉 Hosting a research project on non-contact physiological indication perception based on camera technology, awarded funding by the **Beijing Natural Science Foundation**.
 
-**2023.11.24:** 🎉🎉 Won the top3 Prize in [Al Health Summit 2023 Poster Competition](https://mp.weixin.qq.com/s/Y7yvnuK6nqyBeBf8tAofOQ).
+**2023.10:** 🎉🎉 Awarded **National Scholarship** by Ministry of Education!
 
-**2023.11.23:** Attended the AI Health Summit 2023 held in held in Singapore and posted a [poster](https://drive.google.com/file/d/1g9uQsFCsOHGoOQ5ChehHDCV1Aqt2qpaq/view?usp=sharing). 
+**2023.10:** 🎉🎉 Our paper addressed [rPPG Toolbox](https://arxiv.org/abs/2210.00716) has been accepted by [NeurIPS 2023](https://neurips.cc/).
 
-**2023.10.20:** 🎉🎉 Our abstract addressed [Fetal MRI image quality assessment](https://onedrive.live.com/?authkey=%21ABvG7ukadYI%2Dipw&id=A5AB43CB4B79A37A%2133213&cid=A5AB43CB4B79A37A&parId=root&parQt=sharedby&parCid=UnAuth&o=OneUp) has been accepted by [AI Health Summit 2023](https://healthsummit.ai/main/abstracts/)
+**2023.7:** Attended the [EMBC 2023](https://embc.embs.org/2023/)  and gave an [oral presentation](https://arxiv.org/abs/2302.03840) about new comprehensive rPPG dataset. 
 
-**2023.10.15:** 🎉🎉 Awarded **National Scholarship** by Ministry of Education!
-
-**2023.10.2:** Attended the [NUS-THU Joint Workshop on Biomedical Engineering 2023](https://ihealthtech.nus.edu.sg/event/nus-thu-joint-workshop-on-biomedical-engineering-2023/) hosted by the [National University of Singapore](https://nus.edu.sg/) and posted a [poster](https://drive.google.com/file/d/1XvKr1N_4eonvEOxT0u8NA1tLA0tvImT3/view). 
-
-**2023.7.16:** Attended the [IEEE ASYNC 2023](https://c360-o2o.c360dn.com/b14b26a8836a3f6cf111018ac518dfa51920?watermark/3/image/aHR0cHM6Ly9jMzYwLW8yby5jMzYwZG4uY29tL2Y5OGQ4ODI5LTAwNjMtNDMxZi1iZmEyLTU2ZWU2Mjg5YTA2Mz9pbWFnZXMy/dissolve/100/gravity/SouthEast/dx/0/dy/0/ws/0.2071148722770726) held in Beijing, China.
-
-**2023.5.21:** 🎉🎉 Our paper addressed [Tooth-Marked Tongue Classification](https://ieeexplore.ieee.org/abstract/document/10181870) has been accepted by [IEEE ISCAS 2023](https://2023.ieee-iscas.org/).
-
-**2023.5.21:** 🎉🎉 Our paper addressed [Unsupervised Medical Image Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/10181639) has been accepted by [IEEE ISCAS 2023](https://2023.ieee-iscas.org/).
+**2023.3:** 🎉🎉 Our paper addressed [Privacy-Friendly Gait Date Acquisition and Emotion Recognition]([https://arxiv.org/abs/2210.00716](https://kns.cnki.net/kcms2/article/abstract?v=ebrKgZyeBkxJAkKmLRGB8ZBzoL0_JE1z5CJDrfO0vn9sAN5P7cZCI7TMzal9BZkSQQ-tNRL5sj5jZJV8Erzh5u0t4amz6h_o_KdkPSubDPVnvkfMkClSYlPa5iaNSWFktEGmXFOfGWIXzhFL20NQyw==&uniplatform=NZKPT&language=CHS)) has been accepted by [JCAD](https://www.jcad.cn/).
 
 # 📝 Publications 
 #### JOURNAL PUBLICATIONS
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM</div><img src='../images/TIM.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## Anomaly Detection for Medical Images Using Teacher-Student Model with Skip Connections and Multi-scale Anomaly Consistency
-
-**Mingxuan Liu**, Yunrui Jiao, Jingqiao Lu, Hong Chen
-
-IEEE Transactions on Instrumentation and Measurement, Under Review
-
-<div class="extra-links">
-    <a class="_blank" href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.24330880.v1" >
-        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
-    </a>
-    <a class="_blank" href="https://github.com/Arktis2022/Skip-TS">
-        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
-    </a>
-</div>
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NN</div><img src='../images/NN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## Spiking-PhysFormer: Camera-Based Remote Photoplethysmography with Parallel Spike-driven Transformer
 
-**Mingxuan Liu\***, Jiankai Tang\* (\*Co-first Author), Haoxiang Li, Jiahao Qi, Siwei Li, Kegang Wang, Yuntao Wang, Hong Chen
+Mingxuan Liu\*, **Jiankai Tang\*** (\*Co-first Author), Haoxiang Li, Jiahao Qi, Siwei Li, Kegang Wang, Yuntao Wang, Hong Chen
 
 Neural Networks, Under Review
 
@@ -91,46 +63,41 @@ Neural Networks, Under Review
 </div>
 </div>
 
-#### CONFERENCE PUBLICATIONS
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISMRM 2024</div><img src='../images/ISMRM2024-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NN</div><img src='../images/NN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## Image Quality Assessment using an Orientation Recognition Network for Fetal MRI
+## A Method of Privacy-Friendly Gait Data Acquisition and Emotion Recognition
 
-**Mingxuan Liu\***, Haoxiang Li\* (\*Co-first Author), Zihan Li, Hongjia Yang, Jialan Zheng, Xiao Zhang, Qiyuan Tian
+Hong Xiao, **Jiankai Tang**, Christine Qiu, Xinyi Fu
 
-[2024 ISMRM & ISMRT Annual Meeting & Exhibition](https://www.ismrm.org/24m/) (Oral Power Pitch)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISMRM 2024</div><img src='../images/ISMRM2024-2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## FetalSurfer: an automated fetal cortex reconstruction method to study complex development of fetal brain using AI segmentation
-
-Haoxiang Li\*, **Mingxuan Liu\*** (\*Co-first Author), Jialan Zheng, Hongjia Yang, Zihan Li, Qiyuan Tian
-
-[2024 ISMRM & ISMRT Annual Meeting & Exhibition](https://www.ismrm.org/24m/) (Digital Poster)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2024</div><img src='../images/ICASSP2024.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## SAM-Deblur: Let Segment Anything Boost Image Deblurring
-
-Siwei Li\*, **Mingxuan Liu\*** (\*Co-first Author), Yating Zhang, Shu Chen, Haoxiang Li, Hong Chen, Zifei Dou
-
-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+[JCAD 2023](https://www.jcad.cn/)
 
 <div class="extra-links">
-    <a class="_blank" href="https://arxiv.org/abs/2309.02270" >
+    <a class="_blank" href="https://kns.cnki.net/kcms2/article/abstract?v=ebrKgZyeBkxJAkKmLRGB8ZBzoL0_JE1z5CJDrfO0vn9sAN5P7cZCI7TMzal9BZkSQQ-tNRL5sj5jZJV8Erzh5u0t4amz6h_o_KdkPSubDPVnvkfMkClSYlPa5iaNSWFktEGmXFOfGWIXzhFL20NQyw==&uniplatform=NZKPT&language=CHS" >
         <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
     </a>
-    <a class="_blank" href="https://hplqaq.github.io/projects/sam-deblur">
-        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Project
+</div>
+
+</div>
+</div>
+
+#### CONFERENCE PUBLICATIONS
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI Health Summit 2023</div><img src='../images/AHS2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## A Comprehensive Dataset and Automated Pipeline for Nailfold Capillary Analysis
+
+Linxi Zhao, **Jiankai Tang**, Dongyu Chen, Xiaohong Liu, Yong Zhou, Guangyu Wang, Yuntao Wang
+
+[ISBI 2024]([https://healthsummit.ai/main/abstracts/](https://biomedicalimaging.org/2024/)). 
+
+<div class="extra-links">
+    <a class="_blank" href="arxiv.org/abs/2312.05930" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+      <a class="_blank" href="https://github.com/THU-CS-PI-LAB/ANFC-Automated-Nailfold-Capillary">
+        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
     </a>
 </div>
 
@@ -140,35 +107,17 @@ Siwei Li\*, **Mingxuan Liu\*** (\*Co-first Author), Yating Zhang, Shu Chen, Haox
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI Health Summit 2023</div><img src='../images/AHS2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## Label-free Image Quality Assessment of Fetal Brain MRI with Unsupervised Deep Learning
+## LongBench: A Bilingual, Multitask Benchmark for Long Context Understanding
 
-**Mingxuan Liu**, Haoxiang Li, Haibo Qu, Qiyuan Tian
+Yushi Bai, Xin Lv, Jiajie Zhang, Hongchang Lyu, **Jiankai Tang**, Zhidian Huang, Zhengxiao Du, Xiao Liu, Aohan Zeng, Lei Hou, Yuxiao Dong, Jie Tang, Juanzi Li
 
-[AI Health Summit 2023](https://healthsummit.ai/main/abstracts/). (Top3 prize)
-
-<div class="extra-links">
-    <a class="_blank" href="https://onedrive.live.com/?authkey=%21ABvG7ukadYI%2Dipw&id=A5AB43CB4B79A37A%2133213&cid=A5AB43CB4B79A37A&parId=root&parQt=sharedby&parCid=UnAuth&o=OneUp" >
-        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
-    </a>
-</div>
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCAS 2023</div><img src='../images/ISCAS2023.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## Skip-ST: Anomaly Detection for Medical Images Using Student-Teacher Network with Skip Connections
-
-**Mingxuan Liu**, Yunrui Jiao, Hong Chen
-
-2023 IEEE International Symposium on Circuits and Systems (ISCAS) (Oral Presentation)
+ArXiv
 
 <div class="extra-links">
-    <a class="_blank" href="https://ieeexplore.ieee.org/abstract/document/10181639" >
+    <a class="_blank" href="https://arxiv.org/abs/2311.12524" >
         <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
     </a>
-    <a class="_blank" href="https://github.com/Arktis2022/Skip-TS">
+      <a class="_blank" href="https://github.com/THUDM/LongBench">
         <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
     </a>
 </div>
@@ -176,85 +125,84 @@ Siwei Li\*, **Mingxuan Liu\*** (\*Co-first Author), Yating Zhang, Shu Chen, Haox
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCAS 2023</div><img src='../images/ISCAS2023-2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI Health Summit 2023</div><img src='../images/AHS2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## PRTMTM: A Priori Regularization Method for Tooth-Marked Tongue Classification
+## ALPHA: AnomaLous Physiological Health Assessment Using Large Language Models
 
-Jingqiao Lu, **Mingxuan Liu**, Hong Chen
+**Jiankai Tang**, Kegang Wang, Hongming Hu, Xiyuxing Zhang, Peiyu Wang, Xin Liu, Yuntao Wang
 
-2023 IEEE International Symposium on Circuits and Systems (ISCAS) (Poster)
-
-<div class="extra-links">
-    <a class="_blank" href="https://ieeexplore.ieee.org/abstract/document/10181870" >
-        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
-    </a>
-</div>
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BioCAS 2022</div><img src='../images/BioCAS2022.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## Data Augmentation Using Image-to-image Translation for Tongue Coating Thickness Classification with Imbalanced Data
-
-**Mingxuan Liu**, Yunrui Jiao, Hongyu Gu, Jingqiao Lu, Hong Chen
-
-2022 IEEE Biomedical Circuits and Systems Conference (BioCAS) (Oral Presentation)
+[AI Health Summit 2023](https://healthsummit.ai/main/abstracts/). 
 
 <div class="extra-links">
-    <a class="_blank" href="https://ieeexplore.ieee.org/abstract/document/9948645" >
+    <a class="_blank" href="https://arxiv.org/abs/2311.12524" >
         <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
     </a>
-</div>
-
-</div>
-</div>
-
-#### PREPRINT PUBLICATIONS
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='../images/arxiv-1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## Spiking-Diffusion: Vector Quantized Discrete Diffusion Model with Spiking Neural Networks
-
-**Mingxuan Liu\***, Jie Gan\*, Rui Wen\* (\*Co-first Author), Tao Li, Yongli Chen, Hong Chen
-
-<div class="extra-links">
-    <a class="_blank" href="https://arxiv.org/abs/2308.10187" >
-        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
-    </a>
-    <a class="_blank" href="https://github.com/Arktis2022/Spiking-Diffusion">
+      <a class="_blank" href="https://github.com/McJackTang/LLM-HealthAssistant">
         <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
     </a>
 </div>
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISMRM 2024</div><img src='../images/ISMRM2024-2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## MMPD: Multi-Domain Mobile Video Physiology Dataset
+
+**Jiankai Tang**, Kequan Chen, Yuntao Wang, Yuanchun Shi, Shwetak Patel, Daniel McDuff, Xin Liu
+
+[IEEE EMBC 2023](https://embc.embs.org/2023/) (Oral)
+<div class="extra-links">
+    <a class="_blank" href="https://arxiv.org/abs/2302.03840" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+    <a class="_blank" href="https://github.com/McJackTang/MMPD_rPPG_dataset">
+        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
+    </a>
+</div>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2024</div><img src='../images/ICASSP2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## rPPG-Toolbox: Deep Remote PPG Toolbox
+
+Xin Liu, Girish Narayanswamy, Akshay Paruchuri, Xiaoyu Zhang, **Jiankai Tang**, Yuzhe Zhang, Yuntao Wang, Soumyadip Sengupta, Shwetak Patel, Daniel McDuff
+
+[NeurIPS 2023](https://neurips.cc/)
+
+<div class="extra-links">
+    <a class="_blank" href="https://arxiv.org/abs/2210.00716" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+    <a class="_blank" href="https://github.com/ubicomplab/rPPG-Toolbox">
+        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
+    </a>
+</div>
+
+</div>
+</div>
+
+# 👨🏻‍🎓 Service and leadership
+- 2024-Now: Academic and Innovation Tutor, Xinya College, Tsinghua University
+- 2023-Now: Executive Chairman of Huxiang(湖湘） Culture Association,  Tsinghua University
+- 2021-2023: Leader of Creative Design and Intelligent Engineering. CDIE9 was honored with the award of “Excellent Academic Class”.
+- 2022-2023: Vice president of the Science and Innovation Association, Xinya College.
+
 # 🎖 Honors and Awards
-- *2024* **2024 ISMRM: Educational Stipend Award**
-- *2023* **Top3 Prize in [Al Health Summit 2023 Poster Competition](https://healthsummit.ai/main/abstracts/)**, Singapore
+- *2024* **Best Presentation Award** at Tsinghua University Initiative Scientific Research Program Forum. *Top 5*
 - *2023* **National Scholarship, Ministry of Education**, P.R. China (Top 1 in department) <br /> &nbsp; &nbsp; &nbsp; *Top scholarship in China. 0.2% domestically*.
-- *2022* **Scholarship for Academic Excellence**, Tsinghua University
+- *2023* **Scholarship for Social Work Excellence**, Tsinghua University
+- *2023* **Scholarship for Science and Technology Innovation Excellence**, Tsinghua University
+- *2022* **Scholarship for Social Work Excellence**, Tsinghua University
 - *2022* **Scholarship for Science and Technology Innovation Excellence**, Tsinghua University
-- *2022* **Second Prize for Outstanding Projects of the Students Research Training Program**, Tsinghua University <br /> &nbsp; &nbsp; &nbsp; *Supported by a National College Student Innovation and Entrepreneurship Project*
-- *2020* **Scholarship for Academic Excellence**, Tsinghua University
+- *2021* **Scholarship for Social Work Excellence**, Tsinghua University
 
-# 📖 Educations
-- *2021.09 - present*, **School of Biomedical Engineering**, Tsinghua University, China. 
-- *2019.09 – 2021.08*, Department of Chemical Engineering, Tsinghua University, China.
 
-# 🎣 Activities
-- *2023.11.24*, Won the top3 Prize in Al Health Summit 2023 Poster Competition. [Photo](https://img.erpweb.eu.org/imgs/2024/02/207b20e0e675d4fa.jpg) (First row: Competition judges; Left one: Editor-in-chief of The Lancet Digital Health; Left two: Prof Catherine R Lucey; Left three: Editor-in-chief of Nature Medicine; Left four: Editor-in-chief of Nature Biomedical Engineering)
-- *2023.11.24*, Top 5 poster competition in AI health summit 2023. [Photo](https://img.erpweb.eu.org/imgs/2024/02/2547ed7aa1423a38.jpg)
-- *2023.11.22*, BIRTHLab members visited Nanyang Technological University. [Photo](https://img.erpweb.eu.org/imgs/2024/02/0cb68379b33a36d5.png)
-- *2023.10.02*, Attended the NUS-THU Joint Workshop on Biomedical Engineering 2023, held in Singapore. [Photo](https://img.erpweb.eu.org/imgs/2024/02/5514cfe5a7abca58.png)
-- *2023.07.26*, Attended the IEEE ASYNC 2023 held in Beijing, China. [Photo](https://img.erpweb.eu.org/imgs/2024/02/28f5198102433c57.png)
-  
-# 💌 Social Event
-- *2024.02.28*, Visited the Juzizhou Island (橘子洲) with my girlfriend, in Changsha. [Photo](https://ibb.co/mDLzGyS)
-- *2023.10.22*, Visited the National Museum of China (国家博物馆) with my girlfriend, in Beijing. [Photo](https://img.erpweb.eu.org/imgs/2024/02/b0b5af6405497e7d.png)
-- *2023.06.14*, Visited the Yuewang Pavilion (岳王亭) with my girlfriend, in Changsha. [Photo](https://img.erpweb.eu.org/imgs/2024/03/b621eaab184bcea3.jpg)
   
 # 🔗 LINKS
-BIRTHLab: [The lab for Brain Imaging Research at Tsinghua](https://birthlab.github.io/)<br>Haoxiang Li: [Department of Biomedical Engineering, Tsinghua University](https://lihaoxiang-20.github.io/)<br>Jack Tang: [Xinya College, Tsinghua University](https://mcjacktang.github.io/)<br>Yunkang Cao: [Huazhong University of Science and Technology](https://caoyunkang.github.io/)<br>Xiao Zhang: [Department of Biomedical Engineering, Tsinghua University](https://xzy-xyz.github.io/)<br>Yiming Huang: [Microsoft Research Asia](https://scholar.google.com/citations?hl=en&user=L8E-ccakgcQC)<br>Siwei Li: [Department of Electronic Engineering of Tsinghua University](https://hplqaq.github.io/)
+Pervasive HCI Group: [The lab for Pervasive Computing and Human-Computer Interaction at Tsinghua](https://pi.cs.tsinghua.edu.cn/)<br>Yuntao Wang: [Associate Professor, Department of Computer Science and Technology, Tsinghua University](https://pi.cs.tsinghua.edu.cn/lab/people/YuntaoWang/)<br>Xin Liu: [Research Scientist, Google Consumer Health Research and a research affiliate, the Paul G. Allen School of Computer Science & Engineering, University of Washington](https://xliucs.github.io/)<br>Mingxuan Liu: [Department of Biomedical Engineering, Tsinghua University](https://arktis2022.github.io/)
