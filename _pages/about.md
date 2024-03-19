@@ -63,14 +63,14 @@ Neural Networks, Under Review
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NN</div><img src='../images/NN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCAD</div><img src='../images/GaitEmotion.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## A Method of Privacy-Friendly Gait Data Acquisition and Emotion Recognition
 
 Hong Xiao, **Jiankai Tang**, Christine Qiu, Xinyi Fu
 
-[JCAD 2023](https://www.jcad.cn/)
+[JCAD](https://www.jcad.cn/)
 
 <div class="extra-links">
     <a class="_blank" href="https://kns.cnki.net/kcms2/article/abstract?v=ebrKgZyeBkxJAkKmLRGB8ZBzoL0_JE1z5CJDrfO0vn9sAN5P7cZCI7TMzal9BZkSQQ-tNRL5sj5jZJV8Erzh5u0t4amz6h_o_KdkPSubDPVnvkfMkClSYlPa5iaNSWFktEGmXFOfGWIXzhFL20NQyw==&uniplatform=NZKPT&language=CHS" >
@@ -83,7 +83,7 @@ Hong Xiao, **Jiankai Tang**, Christine Qiu, Xinyi Fu
 
 #### CONFERENCE PUBLICATIONS
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI Health Summit 2023</div><img src='../images/AHS2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISBI 2024</div><img src='../images/Nailfold.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## A Comprehensive Dataset and Automated Pipeline for Nailfold Capillary Analysis
@@ -104,7 +104,7 @@ Linxi Zhao, **Jiankai Tang**, Dongyu Chen, Xiaohong Liu, Yong Zhou, Guangyu Wang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI Health Summit 2023</div><img src='../images/AHS2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='../images/LongBench.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## LongBench: A Bilingual, Multitask Benchmark for Long Context Understanding
@@ -114,7 +114,7 @@ Yushi Bai, Xin Lv, Jiajie Zhang, Hongchang Lyu, **Jiankai Tang**, Zhidian Huang,
 ArXiv
 
 <div class="extra-links">
-    <a class="_blank" href="https://arxiv.org/abs/2311.12524" >
+    <a class="_blank" href="https://arxiv.org/abs/2308.14508" >
         <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
     </a>
       <a class="_blank" href="https://github.com/THUDM/LongBench">
@@ -125,7 +125,7 @@ ArXiv
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI Health Summit 2023</div><img src='../images/AHS2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI Health Summit 2023</div><img src='../images/Alpha.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## ALPHA: AnomaLous Physiological Health Assessment Using Large Language Models
@@ -146,7 +146,7 @@ ArXiv
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISMRM 2024</div><img src='../images/ISMRM2024-2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMBC 2023</div><img src='../images/MMPD.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## MMPD: Multi-Domain Mobile Video Physiology Dataset
@@ -166,7 +166,7 @@ ArXiv
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2024</div><img src='../images/ICASSP2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='../images/Toolbox.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## rPPG-Toolbox: Deep Remote PPG Toolbox
