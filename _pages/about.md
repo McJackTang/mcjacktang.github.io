@@ -202,6 +202,19 @@ Xin Liu, Girish Narayanswamy, Akshay Paruchuri, Xiaoyu Zhang, **Jiankai Tang**, 
 - *2022* **Scholarship for Science and Technology Innovation Excellence**, Tsinghua University
 - *2021* **Scholarship for Social Work Excellence**, Tsinghua University
 
+# 📖 Educations
+- *2024.06 - 2027.06*, Research in pervasive computing, Computer Science and Technology Department, Tsinghua University
+- *2019.06 - 2024.06*, Double majors in Automation and Industrial Design, Xinya College, Tsinghua University
+
+
+# 💬 Invited Talks
+- *2023.7*, MMPD Presentation, IEEE Engineering in Medicine and Biology Society
+- *2022.12*, Creative Software, Xinya College, Tsinghua University
+- *2022.05*, Patent Writing, Xinya College, Tsinghua University
+
+# 💻 Internships
+- *2024.01 - Now*, [Ant Group](https://www.antgroup.com/) Safety Lab, China.
+- *2023.06 - 2023.11*, [Zhipu AI](https://www.zhipuai.cn/en/) ChatGLM Group, China.
 
   
 # 🔗 LINKS
