@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Mingxuan Liu"
+title                    : "Jack Tang"
 description              : --------------
-repository               : "Arktis2022/Arktis2022.github.io"
+repository               : "McJackTang/McJackTang.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,23 +21,23 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Mingxuan Liu"
+  name             : "Jack Tang"
   avatar           : "images/profile.png"
   bio              : "Tsinghua University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=8VyGtD0AAAAJ"
-  email            : "arktis@qq.com"
-  researchgate     : "https://www.researchgate.net/profile/Mingxuan-Liu-18"
-  uri              :
+  googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=_jENFHIAAAAJ"
+  email            : "tjk19@mails.tsinghua.edu.cn"
+  researchgate     : 
+  URI              : "https://www.semanticscholar.org/author/Jiankai-Tang/2204826271"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Arktis2022"
+  github           : "McJackTang"
   google_plus      :
   keybase          :
   instagram        :
