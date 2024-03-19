@@ -16,15 +16,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm senior undergraduate student from [Department of Biomedical Engineering](https://www.med.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/). My research interest includes anomaly detection, spiking neural networks, medical imaging.
+-  I am a student researcher at Tsinghua University🎓. I am now a member of [Pervasive HCI Group](https://pi.cs.tsinghua.edu.cn/), advised by Prof. Yuanchun Shi, A/Prof. Yuntao Wang, and Prof. Yingqing Xu. I have done research in the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/), [Global Innovation Exchange](https://gix.uw.edu/), [Future Lab](https://thfl.tsinghua.edu.cn/en/), and [School of Vehicle and Mobility](http://www.svm.tsinghua.edu.cn/). I was a researcher at Tsinghua-Toyota AI Center and an intern at [Zhipu AI](https://www.zhipuai.cn/en/) ChatGLM Group. I enjoy working with academia and industry.
 
-I am very fortunate to be advised by [Prof. Qiyuan Tian](https://www.med.tsinghua.edu.cn/info/1357/4249.htm) of [Birth Lab](https://birthlab.github.io/) from [Department of Biomedical Engineering](https://bme.med.tsinghua.edu.cn/), Tsinghua University. I was advised by [Prof. Hong Chen](https://www.ime.tsinghua.edu.cn/info/1015/1399.htm) from [School of Integrated Circuits](https://www.sic.tsinghua.edu.cn/en/index.htm), Tsinghua University.
+- 🔭 My research interests include `Remote Physiological Sensing`, `Pervasive Computing`, `Human-Computer Interaction(HCI)`, `Large Language Model`, and `Computer Vision`. I’m currently working on Biosensing, HCI, and LLM.  
+ 
+- 📫 Reach me through `tjk19@mails.tsinghua.edu.cn` if interested.  
 
-You can find my CV here: [Mingxuan Liu's Curriculum Vitae](https://drive.google.com/file/d/1IdMFXcCNouibJbiRxjMOWI4OJqiyA68F/view?usp=sharing).
-
-Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../images/wechat.jpg) / [Google scholar](https://scholar.google.com/citations?user=8VyGtD0AAAAJ&hl=zh-CN) / [Semantic scholar](https://www.semanticscholar.org/author/Mingxuan-Liu/2112213258).
-
-<a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=8VyGtD0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+<a href='https://scholar.google.com/citations?user=SCHOLAR_ID&user=_jENFHIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
 **2024.02.13:** 🎉🎉 Awarded **Educational Stipend Award** by 2024 ISMRM!
