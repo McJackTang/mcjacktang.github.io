@@ -187,11 +187,7 @@ Xin Liu, Girish Narayanswamy, Akshay Paruchuri, Xiaoyu Zhang, **Jiankai Tang**, 
 </div>
 </div>
 
-# 👨🏻‍🎓 Service and leadership
-- 2024-Now: Academic and Innovation Tutor, Xinya College, Tsinghua University
-- 2023-Now: Executive Chairman of Huxiang(湖湘） Culture Association,  Tsinghua University
-- 2021-2023: Leader of Creative Design and Intelligent Engineering. CDIE9 was honored with the award of “Excellent Academic Class”.
-- 2022-2023: Vice president of the Science and Innovation Association, Xinya College.
+
 
 # 🎖 Honors and Awards
 - *2024* **Best Presentation Award** at Tsinghua University Initiative Scientific Research Program Forum. *Top 5*
@@ -216,6 +212,11 @@ Xin Liu, Girish Narayanswamy, Akshay Paruchuri, Xiaoyu Zhang, **Jiankai Tang**, 
 - *2024.01 - Now*, [Ant Group](https://www.antgroup.com/) Safety Lab, China.
 - *2023.06 - 2023.11*, [Zhipu AI](https://www.zhipuai.cn/en/) ChatGLM Group, China.
 
+# 👨🏻‍🎓 Service and Leadership
+- 2024-Now: Academic and Innovation Tutor, Xinya College, Tsinghua University
+- 2023-Now: Executive Chairman of Huxiang(湖湘） Culture Association,  Tsinghua University
+- 2021-2023: Leader of Creative Design and Intelligent Engineering. CDIE9 was honored with the award of “Excellent Academic Class”.
+- 2022-2023: Vice president of the Science and Innovation Association, Xinya College.
   
 # 🔗 LINKS
 Pervasive HCI Group: [The lab for Pervasive Computing and Human-Computer Interaction at Tsinghua](https://pi.cs.tsinghua.edu.cn/)<br>Yuntao Wang: [Associate Professor, Department of Computer Science and Technology, Tsinghua University](https://pi.cs.tsinghua.edu.cn/lab/people/YuntaoWang/)<br>Xin Liu: [Research Scientist, Google Consumer Health Research and a research affiliate, the Paul G. Allen School of Computer Science & Engineering, University of Washington](https://xliucs.github.io/)<br>Mingxuan Liu: [Department of Biomedical Engineering, Tsinghua University](https://arktis2022.github.io/)
