@@ -209,7 +209,7 @@ Xin Liu, Girish Narayanswamy, Akshay Paruchuri, Xiaoyu Zhang, **Jiankai Tang**, 
 - *2022.05*, Patent Writing, Xinya College, Tsinghua University
 
 # 💻 Internships
-- *2024.01 - Now*, [Ant Group](https://www.antgroup.com/) Safety Lab, China.
+- *2024.01 - Now*, [Ant Group](https://www.antgroup.com/) Tianji Lab, China.
 - *2023.06 - 2023.11*, [Zhipu AI](https://www.zhipuai.cn/en/) ChatGLM Group, China.
 
 # 👨🏻‍🎓 Service and Leadership
