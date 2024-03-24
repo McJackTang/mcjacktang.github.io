@@ -199,8 +199,8 @@ Xin Liu, Girish Narayanswamy, Akshay Paruchuri, Xiaoyu Zhang, **Jiankai Tang**, 
 - *2021* **Scholarship for Social Work Excellence**, Tsinghua University
 
 # 📖 Educations
-- *2024.06 - 2027.06*, Research in pervasive computing, Computer Science and Technology Department, Tsinghua University
-- *2019.06 - 2024.06*, Double majors in Automation and Industrial Design, Xinya College, Tsinghua University
+- *2024.06 - 2027.06*, the Department of Computer Science and Technology, Tsinghua University
+- *2019.06 - 2024.06*, Creative Design and Intelligent Engineering(CDIE), double majors in Automation and Industrial Design, Xinya College, Tsinghua University
 
 
 # 💬 Invited Talks
@@ -214,7 +214,7 @@ Xin Liu, Girish Narayanswamy, Akshay Paruchuri, Xiaoyu Zhang, **Jiankai Tang**, 
 
 # 👨🏻‍🎓 Service and Leadership
 - 2024-Now: Academic and Innovation Tutor, Xinya College, Tsinghua University
-- 2023-Now: Executive Chairman of Huxiang(湖湘） Culture Association,  Tsinghua University
+- 2023-Now: Chairman of Huxiang(湖湘）Culture Association,  Tsinghua University
 - 2021-2023: Leader of Creative Design and Intelligent Engineering. CDIE9 was honored with the award of “Excellent Academic Class”.
 - 2022-2023: Vice president of the Science and Innovation Association, Xinya College.
   
