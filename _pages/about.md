@@ -86,7 +86,7 @@ Hong Xiao, **Jiankai Tang**, Christine Qiu, Xinyi Fu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISBI 2024</div><img src='../images/Nailfold.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## A Comprehensive Dataset and Automated Pipeline for Nailfold Capillary Analysis
+## [A Comprehensive Dataset and Automated Pipeline for Nailfold Capillary Analysis ![](https://img.shields.io/github/stars/THU-CS-PI-LAB/ANFC-Automated-Nailfold-Capillary?style=social)](https://github.com/THU-CS-PI-LAB/ANFC-Automated-Nailfold-Capillary)
 
 Linxi Zhao, **Jiankai Tang**, Dongyu Chen, Xiaohong Liu, Yong Zhou, Guangyu Wang, Yuntao Wang
 
@@ -107,7 +107,7 @@ Linxi Zhao, **Jiankai Tang**, Dongyu Chen, Xiaohong Liu, Yong Zhou, Guangyu Wang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='../images/LongBench.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## LongBench: A Bilingual, Multitask Benchmark for Long Context Understanding
+## [LongBench: A Bilingual, Multitask Benchmark for Long Context Understanding ![](https://img.shields.io/github/stars/THUDM/LongBench?style=social)](https://github.com/THUDM/LongBench)
 
 Yushi Bai, Xin Lv, Jiajie Zhang, Hongchang Lyu, **Jiankai Tang**, Zhidian Huang, Zhengxiao Du, Xiao Liu, Aohan Zeng, Lei Hou, Yuxiao Dong, Jie Tang, Juanzi Li
 
@@ -128,7 +128,8 @@ ArXiv
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI Health Summit 2023</div><img src='../images/Alpha.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## ALPHA: AnomaLous Physiological Health Assessment Using Large Language Models
+## [ALPHA: AnomaLous Physiological Health Assessment Using Large Language Models ![](https://img.shields.io/github/stars/McJackTang/LLM-HealthAssistant?style=social)](https://github.com/McJackTang/LLM-HealthAssistant)
+
 
 **Jiankai Tang**, Kegang Wang, Hongming Hu, Xiyuxing Zhang, Peiyu Wang, Xin Liu, Yuntao Wang
 
@@ -149,7 +150,8 @@ ArXiv
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMBC 2023</div><img src='../images/MMPD.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## MMPD: Multi-Domain Mobile Video Physiology Dataset
+## [MMPD: Multi-Domain Mobile Video Physiology Dataset ![](https://img.shields.io/github/stars/McJackTang/MMPD_rPPG_dataset?style=social)](https://github.com/McJackTang/MMPD_rPPG_dataset)
+
 
 **Jiankai Tang**, Kequan Chen, Yuntao Wang, Yuanchun Shi, Shwetak Patel, Daniel McDuff, Xin Liu
 
@@ -169,7 +171,8 @@ ArXiv
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='../images/Toolbox.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## rPPG-Toolbox: Deep Remote PPG Toolbox
+## [rPPG-Toolbox: Deep Remote PPG Toolbox ![](https://img.shields.io/github/stars/ubicomplab/rPPG-Toolbox?style=social)](https://github.com/ubicomplab/rPPG-Toolbox)
+
 
 Xin Liu, Girish Narayanswamy, Akshay Paruchuri, Xiaoyu Zhang, **Jiankai Tang**, Yuzhe Zhang, Yuntao Wang, Soumyadip Sengupta, Shwetak Patel, Daniel McDuff
 
