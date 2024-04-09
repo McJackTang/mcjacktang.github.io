@@ -16,16 +16,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
--  I am a student researcher at Tsinghua University🎓. I am now a member of [Pervasive HCI Group](https://pi.cs.tsinghua.edu.cn/), advised by Prof. Yuanchun Shi, A/Prof. Yuntao Wang, and Prof. Yingqing Xu. I have done research in the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/), [Global Innovation Exchange](https://gix.uw.edu/), [Future Lab](https://thfl.tsinghua.edu.cn/en/), and [School of Vehicle and Mobility](http://www.svm.tsinghua.edu.cn/). I was a researcher at Tsinghua-Toyota AI Center and an intern at [Zhipu AI](https://www.zhipuai.cn/en/) ChatGLM Group. I enjoy working with academia and industry.
+-  I am a student researcher at Tsinghua University🎓. I am now a member of [Pervasive HCI Group](https://pi.cs.tsinghua.edu.cn/), advised by [Prof. Yuanchun Shi](https://scholar.google.com/citations?user=TZm3-pwAAAAJ&hl=zh-CN), [A/Prof. Yuntao Wang](https://scholar.google.com/citations?user=kHpwoAUAAAAJ&hl=zh-CN), and [Prof. Yingqing Xu](https://scholar.google.com/citations?hl=zh-CN&user=zSiDAt4AAAAJ). I have done research in the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/), [Global Innovation Exchange](https://gix.uw.edu/), [Future Lab](https://thfl.tsinghua.edu.cn/en/), and [School of Vehicle and Mobility](http://www.svm.tsinghua.edu.cn/). I was a researcher at Tsinghua-Toyota AI Center and an intern at [Zhipu AI](https://www.zhipuai.cn/en/) ChatGLM Group. I enjoy working with academia and industry.
 
-- 🔭 My research interests include `Remote Physiological Sensing`, `Pervasive Computing`, `Human-Computer Interaction(HCI)`, `Large Language Model`, and `Computer Vision`. I’m currently working on Biosensing, HCI, and LLM.  
+- 🔭 My research interests include `Remote Physiological Sensing`, `Pervasive Computing`, `Human-Computer Interaction(HCI)`, `Large Language Models`, and `Computer Vision`. I’m currently working on Biosensing, HCI, and LLM.  
  
 - 📫 Reach me through `tjk19@mails.tsinghua.edu.cn` if interested.  
 
 <a href='https://scholar.google.com/citations?user=_jENFHIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
-**2024.4:** 🎉🎉 Our paper [Jiankai Tang and Xinyi Li and Jiacheng Liu and Xiyuxing Zhang and Zeyu Wang and Yuntao Wang](https://arxiv.org/abs/2404.05003) has been accepted by [CHI Workshop 2024 PhysioCHI](https://chi2024.acm.org/for-authors/workshops/accepted-workshops/).
+**2024.4:** 🎉🎉 Our paper [Camera-Based Remote Physiology Sensing for Hundreds of Subjects Across Skin Tones](https://arxiv.org/abs/2404.05003) has been accepted by [CHI Workshop 2024 PhysioCHI](https://chi2024.acm.org/for-authors/workshops/accepted-workshops/).
 
 **2024.4:** 🎉🎉 Admitted into the Groundbreaking Innovation Talent Development Program at Tsinghua University.
 
@@ -87,6 +87,29 @@ Hong Xiao, **Jiankai Tang**, Christine Qiu, Xinyi Fu
 
 #### CONFERENCE PUBLICATIONS
 
+<!-- --------------------------------------------------------------------------------------------------------------- -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PhysioCHI 2024</div><img src='../images/PhysioCHI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## [Camera-Based Remote Physiology Sensing for Hundreds of Subjects Across Skin Tones ![](https://github.com/Health-HCI-Group/Largest_rPPG_Dataset_Evaluation?style=social)](https://github.com/Health-HCI-Group/Largest_rPPG_Dataset_Evaluation)
+
+**Jiankai Tang\***, Xinyi Li\*(\*Co-first Author), Jiacheng Liu, Xiyuxing Zhang, Zeyu Wang, Yuntao Wang
+
+[CHI Workshop PhysioCHI 2024](https://chi2024.acm.org/for-authors/workshops/accepted-workshops/). 
+
+<div class="extra-links">
+    <a class="_blank" href="https://arxiv.org/abs/2404.05003" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+      <a class="_blank" href="https://github.com/Health-HCI-Group/Largest_rPPG_Dataset_Evaluation">
+        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
+    </a>
+</div>
+
+</div>
+</div>
+<!-- --------------------------------------------------------------------------------------------------------------- -->
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISBI 2024</div><img src='../images/Nailfold.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -94,7 +117,7 @@ Hong Xiao, **Jiankai Tang**, Christine Qiu, Xinyi Fu
 
 Linxi Zhao, **Jiankai Tang**, Dongyu Chen, Xiaohong Liu, Yong Zhou, Guangyu Wang, Yuntao Wang
 
-[ISBI 2024]([https://healthsummit.ai/main/abstracts/](https://biomedicalimaging.org/2024/)). 
+[ISBI 2024](https://biomedicalimaging.org/2024/). 
 
 <div class="extra-links">
     <a class="_blank" href="arxiv.org/abs/2312.05930" >
@@ -221,7 +244,7 @@ Xin Liu, Girish Narayanswamy, Akshay Paruchuri, Xiaoyu Zhang, **Jiankai Tang**, 
 
 # 👨🏻‍🎓 Service and Leadership
 - 2024-Now: Academic and Innovation Tutor, Xinya College, Tsinghua University
-- 2023-Now: Chairman of Huxiang(湖湘）Culture Association,  Tsinghua University
+- 2023-Now: Chairman of Huxiang(湖湘) Culture Association,  Tsinghua University
 - 2021-2023: Leader of Creative Design and Intelligent Engineering. CDIE9 was honored with the award of “Excellent Academic Class”.
 - 2022-2023: Vice president of the Science and Innovation Association, Xinya College.
   
