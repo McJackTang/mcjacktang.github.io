@@ -91,7 +91,7 @@ Hong Xiao, **Jiankai Tang**, Christine Qiu, Xinyi Fu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PhysioCHI 2024</div><img src='../images/PhysioCHI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## [Camera-Based Remote Physiology Sensing for Hundreds of Subjects Across Skin Tones ![](https://github.com/Health-HCI-Group/Largest_rPPG_Dataset_Evaluation?style=social)](https://github.com/Health-HCI-Group/Largest_rPPG_Dataset_Evaluation)
+## [Camera-Based Remote Physiology Sensing for Hundreds of Subjects Across Skin Tones ![](https://img.shields.io/github/stars/Health-HCI-Group/Largest_rPPG_Dataset_Evaluation?style=social)](https://github.com/Health-HCI-Group/Largest_rPPG_Dataset_Evaluation)
 
 **Jiankai Tang\***, Xinyi Li\*(\*Co-first Author), Jiacheng Liu, Xiyuxing Zhang, Zeyu Wang, Yuntao Wang
 
