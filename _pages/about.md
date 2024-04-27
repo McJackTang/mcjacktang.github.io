@@ -27,7 +27,7 @@ redirect_from:
 # 🔥 News
 **2024.4:** 🎉🎉 Our paper [Camera-Based Remote Physiology Sensing for Hundreds of Subjects Across Skin Tones](https://arxiv.org/abs/2404.05003) has been accepted by [CHI Workshop 2024 PhysioCHI](https://chi2024.acm.org/for-authors/workshops/accepted-workshops/).
 
-**2024.4:** 🎉🎉 Admitted into the Groundbreaking Innovation Talent Development Program at Tsinghua University.
+**2024.4:** 🎉🎉 Admitted into the Groundbreaking Innovation Talent Development Program(颠覆性创新人才培养项目) at Tsinghua University.
 
 **2024.2:** 🎉🎉 Our paper [A Comprehensive Dataset and Automated Pipeline for Nailfold Capillary Analysis](https://doi.org/10.48550/arXiv.2312.05930) has been accepted by [ISBI 2024](https://biomedicalimaging.org/2024/).
 
@@ -230,11 +230,12 @@ Xin Liu, Girish Narayanswamy, Akshay Paruchuri, Xiaoyu Zhang, **Jiankai Tang**, 
 
 # 📖 Educations
 - *2024.06 - 2027.06*, the Department of Computer Science and Technology, Tsinghua University
-- *2019.06 - 2024.06*, Creative Design and Intelligent Engineering(CDIE), double majors in Automation and Industrial Design, Xinya College, Tsinghua University
+- *2019.06 - 2024.06*, Creative Design and Intelligent Engineering(CDIE, 智班), double majors in Automation and Industrial Design, Xinya College, Tsinghua University
 
 
 # 💬 Invited Talks
-- *2023.7*, MMPD Presentation, IEEE Engineering in Medicine and Biology Society
+- *2024.04*, LLM Applications in Social Work, Tsinghua University
+- *2023.07*, MMPD Presentation, IEEE Engineering in Medicine and Biology Society
 - *2022.12*, Creative Software, Xinya College, Tsinghua University
 - *2022.05*, Patent Writing, Xinya College, Tsinghua University
 
