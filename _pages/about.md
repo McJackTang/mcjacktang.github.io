@@ -25,7 +25,10 @@ redirect_from:
 <a href='https://scholar.google.com/citations?user=_jENFHIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
-**2024.4:** 🎉🎉 Our paper [Camera-Based Remote Physiology Sensing for Hundreds of Subjects Across Skin Tones](https://arxiv.org/abs/2404.05003) has been accepted by [CHI Workshop 2024 PhysioCHI](https://chi2024.acm.org/for-authors/workshops/accepted-workshops/).
+
+**2024.4:** 🎉🎉 [LongBench: A Bilingual, Multitask Benchmark for Long Context Understanding ![](https://img.shields.io/github/stars/THUDM/LongBench?style=social)](https://github.com/THUDM/LongBench) has been accepted by [ACL 2024](https://2024.aclweb.org/).
+
+**2024.5:** 🎉🎉 Attending [CHI Workshop 2024 PhysioCHI](https://chi2024.acm.org/for-authors/workshops/accepted-workshops/) and present our work [Camera-Based Remote Physiology Sensing for Hundreds of Subjects Across Skin Tones](https://arxiv.org/abs/2404.05003).
 
 **2024.4:** 🎉🎉 Admitted into the Groundbreaking Innovation Talent Development Program(颠覆性创新人才培养项目) at Tsinghua University.
 
