@@ -26,7 +26,9 @@ redirect_from:
 
 # 🔥 News
 
-**2024.4:** 🎉🎉 [LongBench: A Bilingual, Multitask Benchmark for Long Context Understanding ![](https://img.shields.io/github/stars/THUDM/LongBench?style=social)](https://github.com/THUDM/LongBench) has been accepted by [ACL 2024](https://2024.aclweb.org/).
+**2024.5:** 🎉🎉 Our paper [The EarSAVAS Dataset: Enabling Subject-Aware Vocal Activity Sensing on Earables](https://dl.acm.org/doi/10.1145/3659616) has been accepted by [The Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)](https://dl.acm.org/journal/imwut).
+
+**2024.5:** 🎉🎉 Our paper [LongBench: A Bilingual, Multitask Benchmark for Long Context Understanding ![](https://img.shields.io/github/stars/THUDM/LongBench?style=social)](https://github.com/THUDM/LongBench) has been accepted by [ACL 2024](https://2024.aclweb.org/).
 
 **2024.5:** 🎉🎉 Attending [CHI Workshop 2024 PhysioCHI](https://chi2024.acm.org/for-authors/workshops/accepted-workshops/) and present our work [Camera-Based Remote Physiology Sensing for Hundreds of Subjects Across Skin Tones](https://arxiv.org/abs/2404.05003).
 
@@ -51,9 +53,32 @@ redirect_from:
 # 📝 Publications 
 #### JOURNAL PUBLICATIONS
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT</div><img src='../images/EarSAVAS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+## The EarSAVAS Dataset: Enabling Subject-Aware Vocal Activity Sensing on Earables
+
+Xiyuxing Zhang, Yuntao Wang, Yuxuan Han, Chen Liang, Ishan Chatterjee, **Jiankai Tang**, Xin Yi, Shwetak Patel, and Yuanchun Shi
+
+[IMWUT](https://dl.acm.org/journal/imwut)
+
+<div class="extra-links">
+    <a class="_blank" href="https://dl.acm.org/doi/10.1145/3659616" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+  <a class="_blank" href="https://github.com/thuhci/EarSAVAS">
+        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
+    </a>
+</div>
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NN</div><img src='../images/NN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+<!-- --------------------------------------------------------------------------------------------------------------- -->
+
 
 ## Spiking-PhysFormer: Camera-Based Remote Photoplethysmography with Parallel Spike-driven Transformer
 
@@ -72,7 +97,8 @@ Neural Networks, Under Review
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCAD</div><img src='../images/GaitEmotion.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
+<!-- --------------------------------------------------------------------------------------------------------------- -->
+  
 ## A Method of Privacy-Friendly Gait Data Acquisition and Emotion Recognition
 
 Hong Xiao, **Jiankai Tang**, Christine Qiu, Xinyi Fu
@@ -87,6 +113,7 @@ Hong Xiao, **Jiankai Tang**, Christine Qiu, Xinyi Fu
 
 </div>
 </div>
+<!-- --------------------------------------------------------------------------------------------------------------- -->
 
 #### CONFERENCE PUBLICATIONS
 
