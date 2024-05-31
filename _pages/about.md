@@ -161,14 +161,14 @@ Linxi Zhao, **Jiankai Tang**, Dongyu Chen, Xiaohong Liu, Yong Zhou, Guangyu Wang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='../images/LongBench.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 24</div><img src='../images/LongBench.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## [LongBench: A Bilingual, Multitask Benchmark for Long Context Understanding ![](https://img.shields.io/github/stars/THUDM/LongBench?style=social)](https://github.com/THUDM/LongBench)
 
 Yushi Bai, Xin Lv, Jiajie Zhang, Hongchang Lyu, **Jiankai Tang**, Zhidian Huang, Zhengxiao Du, Xiao Liu, Aohan Zeng, Lei Hou, Yuxiao Dong, Jie Tang, Juanzi Li
 
-ArXiv
+ACL 24
 
 <div class="extra-links">
     <a class="_blank" href="https://arxiv.org/abs/2308.14508" >
