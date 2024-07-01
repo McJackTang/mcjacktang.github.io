@@ -39,7 +39,8 @@ redirect_from:
 
 <details>
   <summary>Show More</summary>
-  
+
+
 **2023.12:** 🎉🎉 Awarded **Best Presentation** at Tsinghua University Initiative Scientific Research Program Forum.
 
 **2023.11:** Attended the AI Health Summit 2023 held in Singapore and posted a [poster](https://arxiv.org/abs/2311.12524) about AnomaLous Physiological Health Assessment Using Large Language Models. 
