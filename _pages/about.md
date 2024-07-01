@@ -25,6 +25,7 @@ redirect_from:
 <a href='https://scholar.google.com/citations?user=_jENFHIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
+**2024.6:** 🎉🎉 Give an invited talk at the Commencement Ceremony of Xinya College and awarded Outstanding Graduate and Excellent Graduation Thesis by Tsinghua University.
 
 **2024.5:** 🎉🎉 Our paper [The EarSAVAS Dataset: Enabling Subject-Aware Vocal Activity Sensing on Earables](https://dl.acm.org/doi/10.1145/3659616) has been accepted by [The Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)](https://dl.acm.org/journal/imwut).
 
@@ -36,6 +37,9 @@ redirect_from:
 
 **2024.2:** 🎉🎉 Our paper [A Comprehensive Dataset and Automated Pipeline for Nailfold Capillary Analysis](https://doi.org/10.48550/arXiv.2312.05930) has been accepted by [ISBI 2024](https://biomedicalimaging.org/2024/).
 
+<details>
+  <summary>Show More</summary>
+  
 **2023.12:** 🎉🎉 Awarded **Best Presentation** at Tsinghua University Initiative Scientific Research Program Forum.
 
 **2023.11:** Attended the AI Health Summit 2023 held in Singapore and posted a [poster](https://arxiv.org/abs/2311.12524) about AnomaLous Physiological Health Assessment Using Large Language Models. 
@@ -49,6 +53,9 @@ redirect_from:
 **2023.7:** Attended the [EMBC 2023](https://embc.embs.org/2023/)  and gave an [oral presentation](https://arxiv.org/abs/2302.03840) about new comprehensive rPPG dataset. 
 
 **2023.3:** 🎉🎉 Our paper addressed [Privacy-Friendly Gait Date Acquisition and Emotion Recognition]([https://arxiv.org/abs/2210.00716](https://kns.cnki.net/kcms2/article/abstract?v=ebrKgZyeBkxJAkKmLRGB8ZBzoL0_JE1z5CJDrfO0vn9sAN5P7cZCI7TMzal9BZkSQQ-tNRL5sj5jZJV8Erzh5u0t4amz6h_o_KdkPSubDPVnvkfMkClSYlPa5iaNSWFktEGmXFOfGWIXzhFL20NQyw==&uniplatform=NZKPT&language=CHS)) has been accepted by [JCAD](https://www.jcad.cn/).
+
+</details>
+
 
 # 📝 Publications 
 #### JOURNAL PUBLICATIONS
@@ -264,6 +271,7 @@ Xin Liu, Girish Narayanswamy, Akshay Paruchuri, Xiaoyu Zhang, **Jiankai Tang**, 
 
 
 # 💬 Invited Talks
+- *2024.04*, Commencement Ceremony, Xinya College, Tsinghua University
 - *2024.04*, LLM Applications in Social Work, Tsinghua University
 - *2023.07*, MMPD Presentation, IEEE Engineering in Medicine and Biology Society
 - *2022.12*, Creative Software, Xinya College, Tsinghua University
