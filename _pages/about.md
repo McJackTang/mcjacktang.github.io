@@ -38,10 +38,10 @@ redirect_from:
 
 **2024.2:** 🎉🎉 Our paper [A Comprehensive Dataset and Automated Pipeline for Nailfold Capillary Analysis](https://doi.org/10.48550/arXiv.2312.05930) has been accepted by [ISBI 2024](https://biomedicalimaging.org/2024/).
 
-<details>
-  <summary>Show More</summary>  
+<input type="checkbox" class="show-more" id="show-more">
+<label for="show-more" class="show-more-label">Show More</label>
 
-<!-- --------------------------------------------------------------------------------------------------------------- -->
+<div class="more-content">
 
 **2023.12:** 🎉🎉 Awarded **Best Presentation** at Tsinghua University Initiative Scientific Research Program Forum.
 
@@ -53,12 +53,25 @@ redirect_from:
 
 **2023.10:** 🎉🎉 Our paper addressed [rPPG Toolbox](https://arxiv.org/abs/2210.00716) has been accepted by [NeurIPS 2023](https://neurips.cc/).
 
-**2023.7:** Attended the [EMBC 2023](https://embc.embs.org/2023/) and gave an [oral presentation](https://arxiv.org/abs/2302.03840) about new comprehensive rPPG dataset. 
+**2023.7:** Attended the [EMBC 2023](https://embc.embs.org/2023/) and gave an [oral presentation](https://arxiv.org/abs/2302.03840) about new comprehensive rPPG dataset.
 
 **2023.3:** 🎉🎉 Our paper addressed [Privacy-Friendly Gait Data Acquisition and Emotion Recognition](https://kns.cnki.net/kcms2/article/abstract?v=ebrKgZyeBkxJAkKmLRGB8ZBzoL0_JE1z5CJDrfO0vn9sAN5P7cZCI7TMzal9BZkSQQ-tNRL5sj5jZJV8Erzh5u0t4amz6h_o_KdkPSubDPVnvkfMkClSYlPa5iaNSWFktEGmXFOfGWIXzhFL20NQyw==&uniplatform=NZKPT&language=CHS) has been accepted by [JCAD](https://www.jcad.cn/).
 
-</details>
+</div>
 
+<style>
+  .more-content {
+    display: none;
+  }
+  .show-more:checked ~ .more-content {
+    display: block;
+  }
+  .show-more-label {
+    cursor: pointer;
+    color: blue;
+    text-decoration: underline;
+  }
+</style>
 
 # 📝 Publications 
 #### JOURNAL PUBLICATIONS
