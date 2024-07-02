@@ -59,19 +59,7 @@ redirect_from:
 
 </div>
 
-<style>
-  .more-content {
-    display: none;
-  }
-  .show-more:checked ~ .more-content {
-    display: block;
-  }
-  .show-more-label {
-    cursor: pointer;
-    color: blue;
-    text-decoration: underline;
-  }
-</style>
+
 
 # 📝 Publications 
 #### JOURNAL PUBLICATIONS
