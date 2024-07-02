@@ -25,6 +25,7 @@ redirect_from:
 <a href='https://scholar.google.com/citations?user=_jENFHIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
+
 **2024.6:** 🎉🎉 Give an invited talk at the Commencement Ceremony of Xinya College and awarded **Outstanding Graduate** and **Excellent Graduation Thesis** by Tsinghua University.
 
 **2024.5:** 🎉🎉 Our paper [The EarSAVAS Dataset: Enabling Subject-Aware Vocal Activity Sensing on Earables](https://dl.acm.org/doi/10.1145/3659616) has been accepted by [The Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)](https://dl.acm.org/journal/imwut).
@@ -39,7 +40,9 @@ redirect_from:
 
 <details>
   <summary>Show More</summary>  
-  
+
+<!-- --------------------------------------------------------------------------------------------------------------- -->
+
 **2023.12:** 🎉🎉 Awarded **Best Presentation** at Tsinghua University Initiative Scientific Research Program Forum.
 
 **2023.11:** Attended the AI Health Summit 2023 held in Singapore and posted a [poster](https://arxiv.org/abs/2311.12524) about Anomalous Physiological Health Assessment Using Large Language Models.
