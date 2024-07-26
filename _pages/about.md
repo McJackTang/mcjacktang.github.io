@@ -26,6 +26,8 @@ redirect_from:
 
 # 🔥 News
 
+**2024.7:** 🎉🎉 Awarded the **First Prize** in the National Biomedical Engineering Innovation Competition(Top 5%). 
+
 **2024.6:** 🎉🎉 Give an invited talk at the Commencement Ceremony of Xinya College and awarded **Outstanding Graduate** and **Excellent Graduation Thesis** by Tsinghua University.
 
 **2024.5:** 🎉🎉 Our paper [The EarSAVAS Dataset: Enabling Subject-Aware Vocal Activity Sensing on Earables](https://dl.acm.org/doi/10.1145/3659616) has been accepted by [The Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)](https://dl.acm.org/journal/imwut).
