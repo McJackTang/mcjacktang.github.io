@@ -26,6 +26,8 @@ redirect_from:
 
 # 🔥 News
 
+**2024.9:** 🎉🎉 Attended the [The Inclusion·Conference on the Bund](https://www.inclusionconf.com/) and publish our white paper and [ANT PPG](https://github.com/thuhci/ANT_PPG) dataset.
+
 **2024.7:** 🎉🎉 Awarded the **First Prize** in the National Biomedical Engineering Innovation Competition(Top 5%). 
 
 **2024.6:** 🎉🎉 Give an invited talk at the Commencement Ceremony of Xinya College and awarded **Outstanding Graduate** and **Excellent Graduation Thesis** by Tsinghua University.
@@ -268,7 +270,9 @@ Xin Liu, Girish Narayanswamy, Akshay Paruchuri, Xiaoyu Zhang, **Jiankai Tang**, 
 # 📖 Educations
 - *2024.06 - 2027.06*, the Department of Computer Science and Technology, Tsinghua University
 - *2019.06 - 2024.06*, Creative Design and Intelligent Engineering(CDIE, 智班), double majors in Automation and Industrial Design, Xinya College, Tsinghua University
-
+  - 2022.7-2023.7, Artificial Intelligence Innovation and Entrepreneurship Program, Tsinghua University
+  - 2023.6-2023.9, Access Computing Summer Program, Tsinghua University/University of Washington/GIX
+  - 2022.1, Artificial Intelligence and Machine Learning Winter Program, Oxford University
 
 # 💬 Invited Talks
 - *2024.04*, Commencement Ceremony, Xinya College, Tsinghua University
@@ -282,6 +286,7 @@ Xin Liu, Girish Narayanswamy, Akshay Paruchuri, Xiaoyu Zhang, **Jiankai Tang**, 
 - *2023.06 - 2023.11*, [Zhipu AI](https://www.zhipuai.cn/en/) ChatGLM Group, China.
 
 # 👨🏻‍🎓 Service and Leadership
+- Conference Reviewers: MobileHCI'24
 - 2024-Now: Academic and Innovation Tutor, Xinya College, Tsinghua University
 - 2023-Now: Chairman of Huxiang(湖湘) Culture Association,  Tsinghua University
 - 2021-2023: Leader of Creative Design and Intelligent Engineering. CDIE9 was honored with the award of “Excellent Academic Class”.
