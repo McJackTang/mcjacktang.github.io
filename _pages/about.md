@@ -97,6 +97,9 @@ Neural Networks, Under Review
     <a class="_blank" href="https://arxiv.org/abs/2402.04798" >
         <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
     </a>
+  <a class="_blank" href="https://github.com/Arktis2022/Spiking-PhysFormer">
+        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
+    </a>
 </div>
 
 </div>
@@ -273,6 +276,15 @@ Xin Liu, Girish Narayanswamy, Akshay Paruchuri, Xiaoyu Zhang, **Jiankai Tang**, 
   - 2022.7-2023.7, Artificial Intelligence Innovation and Entrepreneurship Program, Tsinghua University
   - 2023.6-2023.9, Access Computing Summer Program, Tsinghua University/University of Washington/GIX
   - 2022.1, Artificial Intelligence and Machine Learning Winter Program, Oxford University
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://github.com/user-attachments/assets/d5610ddf-a65d-49f1-8678-3757cdd4a4d7" alt="Description 1" height="50" style="margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/95663f2a-8b0a-402a-969b-59991877b313" alt="Description 2" height="50" style="margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/c4c052cd-9e29-44bb-9ad1-48478fdc32d3" alt="Description 3" height="50" style="margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/438928f5-d086-4381-83f3-c509a065bd18" alt="Description 3" height="50" style="margin-right: 10px;"/>
+</div>
+
+
+
 
 # 💬 Invited Talks
 - *2024.04*, Commencement Ceremony, Xinya College, Tsinghua University
