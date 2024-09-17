@@ -279,12 +279,10 @@ Xin Liu, Girish Narayanswamy, Akshay Paruchuri, Xiaoyu Zhang, **Jiankai Tang**, 
   - 
 <div style="display: flex; align-items: flex-start;">
   <img src="https://github.com/user-attachments/assets/d4ed4211-9ada-423d-a8ca-6789af76de04" alt="Description 1" style="height: 100px; width: auto; margin-right: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/c9042b22-4e7c-4e59-a50d-d9238ecbb470" alt="Description 2" style="height: 100px; width: auto; margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/56a1266a-904d-4458-bbab-e4cdd89683f8" alt="Description 2" style="height: 100px; width: auto; margin-right: 10px;"/>
   <img src="https://github.com/user-attachments/assets/c4c052cd-9e29-44bb-9ad1-48478fdc32d3" alt="Description 3" style="height: 100px; width: auto; margin-right: 10px;"/>
   <img src="https://github.com/user-attachments/assets/438928f5-d086-4381-83f3-c509a065bd18" alt="Description 4" style="height: 100px; width: auto; margin-right: 10px;"/>
 </div>
-
-
 
 
 
