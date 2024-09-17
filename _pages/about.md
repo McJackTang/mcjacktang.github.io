@@ -276,13 +276,17 @@ Xin Liu, Girish Narayanswamy, Akshay Paruchuri, Xiaoyu Zhang, **Jiankai Tang**, 
   - 2022.7-2023.7, Artificial Intelligence Innovation and Entrepreneurship Program, Tsinghua University
   - 2023.6-2023.9, Access Computing Summer Program, Tsinghua University/University of Washington/GIX
   - 2022.1, Artificial Intelligence and Machine Learning Winter Program, Oxford University
-  - 
-<div style="display: flex; align-items: flex-start;">
-  <img src="https://github.com/user-attachments/assets/d4ed4211-9ada-423d-a8ca-6789af76de04" alt="Description 1" style="height: 100px; width: auto; margin-right: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/56a1266a-904d-4458-bbab-e4cdd89683f8" alt="Description 2" style="height: 100px; width: auto; margin-right: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/c4c052cd-9e29-44bb-9ad1-48478fdc32d3" alt="Description 3" style="height: 100px; width: auto; margin-right: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/438928f5-d086-4381-83f3-c509a065bd18" alt="Description 4" style="height: 100px; width: auto; margin-right: 10px;"/>
+    
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img src="https://github.com/user-attachments/assets/d4ed4211-9ada-423d-a8ca-6789af76de04" alt="Description 1" style="height: 100px; flex: 1 0 21%; margin: 5px; object-fit: cover;"/>
+  <img src="https://github.com/user-attachments/assets/56a1266a-904d-4458-bbab-e4cdd89683f8" alt="Description 2" style="height: 100px; flex: 1 0 21%; margin: 5px; object-fit: cover;"/>
+  <img src="https://github.com/user-attachments/assets/c4c052cd-9e29-44bb-9ad1-48478fdc32d3" alt="Description 3" style="height: 100px; flex: 1 0 21%; margin: 5px; object-fit: cover;"/>
+  <img src="https://github.com/user-attachments/assets/438928f5-d086-4381-83f3-c509a065bd18" alt="Description 4" style="height: 100px; flex: 1 0 21%; margin: 5px; object-fit: cover;"/>
 </div>
+
+
+
 
 
 
@@ -296,6 +300,13 @@ Xin Liu, Girish Narayanswamy, Akshay Paruchuri, Xiaoyu Zhang, **Jiankai Tang**, 
 # 💻 Internships
 - *2024.01 - Now*, [Ant Group](https://www.antgroup.com/) Tianji Lab, China.
 - *2023.06 - 2023.11*, [Zhipu AI](https://www.zhipuai.cn/en/) ChatGLM Group, China.
+
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://github.com/user-attachments/assets/6842bb15-4bd6-482e-9fbc-458978788478" alt="Description 1" style="height: 100px; width: auto; margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/e4ed6d7d-4fc8-4076-ab6b-356b2d74988e" alt="Description 2" style="height: 100px; width: auto; margin-right: 10px;"/>
+</div>
+
+
 
 # 👨🏻‍🎓 Service and Leadership
 - Conference Reviewers: MobileHCI'24
