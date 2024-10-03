@@ -26,6 +26,10 @@ redirect_from:
 
 # 🔥 News
 
+**2024.10:** 🎉🎉 Attending the [Ubicomp 24](https://www.ubicomp.org/ubicomp-iswc-2024/). Please contact and chat with me!
+
+**2024.10:** 🎉🎉 Our paper [Summit Vitals: Multi-Camera and Multi-Signal Biosensing at High Altitudes](https://arxiv.org/abs/2409.19223) has been accepted by [UIC'24](https://www.ieee-smart-world.org/2024/uic/).
+
 **2024.9:** 🎉🎉 Attended the [The Inclusion·Conference on the Bund](https://www.inclusionconf.com/) and publish our white paper and [ANT PPG](https://github.com/thuhci/ANT_PPG) dataset.
 
 **2024.7:** 🎉🎉 Awarded the **First Prize** in the National Biomedical Engineering Innovation Competition(Top 5%). 
@@ -126,6 +130,29 @@ Hong Xiao, **Jiankai Tang**, Christine Qiu, Xinyi Fu
 <!-- --------------------------------------------------------------------------------------------------------------- -->
 
 #### CONFERENCE PUBLICATIONS
+
+<!-- --------------------------------------------------------------------------------------------------------------- -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIC 2024</div><img src='../images/PhysioCHI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## [Summit Vitals: Multi-Camera and Multi-Signal Biosensing at High Altitudes ![](https://img.shields.io/github/stars/thuhci/SMUS?style=social)](https://github.com/thuhci/SMUS)
+
+Ke Liu*, **Jiankai Tang*(*Co-first Author)**, Zhang Jiang, Yuntao Wang, Xiaojing Liu, Dong Li, Yuanchun Shi
+
+[UIC'24](https://www.ieee-smart-world.org/2024/uic/). 
+
+<div class="extra-links">
+    <a class="_blank" href="https://arxiv.org/abs/2409.19223" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+      <a class="_blank" href="https://github.com/thuhci/SMUS">
+        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
+    </a>
+</div>
+
+</div>
+</div>
+<!-- --------------------------------------------------------------------------------------------------------------- -->
 
 <!-- --------------------------------------------------------------------------------------------------------------- -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PhysioCHI 2024</div><img src='../images/PhysioCHI.png' alt="sym" width="100%"></div></div>
