@@ -67,7 +67,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT</div><img src='../images/EarSAVAS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-## The EarSAVAS Dataset: Enabling Subject-Aware Vocal Activity Sensing on Earables
+## [The EarSAVAS Dataset: Enabling Subject-Aware Vocal Activity Sensing on Earables ![](https://img.shields.io/github/stars/thuhci/EarSAVAS?style=social)](https://github.com/thuhci/EarSAVAS)
 
 Xiyuxing Zhang, Yuntao Wang, Yuxuan Han, Chen Liang, Ishan Chatterjee, **Jiankai Tang**, Xin Yi, Shwetak Patel, and Yuanchun Shi
 
@@ -91,7 +91,7 @@ Xiyuxing Zhang, Yuntao Wang, Yuxuan Han, Chen Liang, Ishan Chatterjee, **Jiankai
 <!-- --------------------------------------------------------------------------------------------------------------- -->
 
 
-## Spiking-PhysFormer: Camera-Based Remote Photoplethysmography with Parallel Spike-driven Transformer
+## [Spiking-PhysFormer: Camera-Based Remote Photoplethysmography with Parallel Spike-driven Transformer ![](https://img.shields.io/github/stars/Arktis2022/Spiking-PhysFormer?style=social)](https://github.com/Arktis2022/Spiking-PhysFormer)
 
 Mingxuan Liu\*, **Jiankai Tang\*** (\*Co-first Author), Haoxiang Li, Jiahao Qi, Siwei Li, Kegang Wang, Yuntao Wang, Hong Chen
 
