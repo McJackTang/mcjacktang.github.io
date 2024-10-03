@@ -132,7 +132,7 @@ Hong Xiao, **Jiankai Tang**, Christine Qiu, Xinyi Fu
 #### CONFERENCE PUBLICATIONS
 
 <!-- --------------------------------------------------------------------------------------------------------------- -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIC 2024</div><img src='../images/PhysioCHI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIC 2024</div><img src='../images/UIC24_SUMS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## [Summit Vitals: Multi-Camera and Multi-Signal Biosensing at High Altitudes ![](https://img.shields.io/github/stars/thuhci/SMUS?style=social)](https://github.com/thuhci/SMUS)
