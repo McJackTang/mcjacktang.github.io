@@ -28,8 +28,8 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=_jENFHIAAAAJ"
-  email            : "tjk19@mails.tsinghua.edu.cn"
-  researchgate     : 
+  email            : "tjk24@mails.tsinghua.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Jiankai-Tang-2"
   URI              : "https://www.semanticscholar.org/author/Jiankai-Tang/2204826271"
   bitbucket        :
   codepen          :
@@ -43,9 +43,9 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  LinkedIn         : "https://www.linkedin.com/in/jack-tang-941879223/" # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0009-5388-4552" # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
