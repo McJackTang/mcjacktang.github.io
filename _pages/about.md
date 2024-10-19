@@ -26,8 +26,6 @@ redirect_from:
 
 # 🔥 News
 
-**2024.10:** 🎉🎉 Attending the [Ubicomp 24](https://www.ubicomp.org/ubicomp-iswc-2024/). Please contact and chat with me!
-
 **2024.10:** 🎉🎉 Our paper [Summit Vitals: Multi-Camera and Multi-Signal Biosensing at High Altitudes](https://arxiv.org/abs/2409.19223) has been accepted by [UIC'24](https://www.ieee-smart-world.org/2024/uic/).
 
 **2024.9:** 🎉🎉 Attended the [The Inclusion·Conference on the Bund](https://www.inclusionconf.com/) and publish our white paper and [ANT PPG](https://github.com/thuhci/ANT_PPG) dataset.
