@@ -26,7 +26,9 @@ redirect_from:
 
 # 🔥 News
 
-**2024.10:** 🎉🎉 Our paper [Summit Vitals: Multi-Camera and Multi-Signal Biosensing at High Altitudes](https://arxiv.org/abs/2409.19223) has been accepted by [UIC'24](https://www.ieee-smart-world.org/2024/uic/).
+**2024.11:** Awarded the **First Prize** in Ubiquitous Intelligent Sensing Technology Innovation Application Competition(Top 5).
+
+**2024.10:** 🎉🎉 Our paper [Summit Vitals: Multi-Camera and Multi-Signal Biosensing at High Altitudes](https://arxiv.org/abs/2409.19223) has been accepted by [UIC'24](https://www.ieee-smart-world.org/2024/uic/) as REGULAR RESEARCH PAPER(Accept Rate: 20.95%).
 
 **2024.9:** 🎉🎉 Attended the [The Inclusion·Conference on the Bund](https://www.inclusionconf.com/) and publish our white paper and [ANT PPG](https://github.com/thuhci/ANT_PPG) dataset.
 
@@ -44,6 +46,9 @@ redirect_from:
 
 **2024.2:** 🎉🎉 Our paper [A Comprehensive Dataset and Automated Pipeline for Nailfold Capillary Analysis](https://doi.org/10.48550/arXiv.2312.05930) has been accepted by [ISBI 2024](https://biomedicalimaging.org/2024/).
 
+<details>
+<summary>See More</summary>
+  
 **2023.12:** 🎉🎉 Awarded **Best Presentation** at Tsinghua University Initiative Scientific Research Program Forum.
 
 **2023.11:** Attended the AI Health Summit 2023 held in Singapore and posted a [poster](https://arxiv.org/abs/2311.12524) about Anomalous Physiological Health Assessment Using Large Language Models.
@@ -57,7 +62,7 @@ redirect_from:
 **2023.7:** Attended the [EMBC 2023](https://embc.embs.org/2023/) and gave an [oral presentation](https://arxiv.org/abs/2302.03840) about new comprehensive rPPG dataset.
 
 **2023.3:** 🎉🎉 Our paper addressed [Privacy-Friendly Gait Data Acquisition and Emotion Recognition](https://kns.cnki.net/kcms2/article/abstract?v=ebrKgZyeBkxJAkKmLRGB8ZBzoL0_JE1z5CJDrfO0vn9sAN5P7cZCI7TMzal9BZkSQQ-tNRL5sj5jZJV8Erzh5u0t4amz6h_o_KdkPSubDPVnvkfMkClSYlPa5iaNSWFktEGmXFOfGWIXzhFL20NQyw==&uniplatform=NZKPT&language=CHS) has been accepted by [JCAD](https://www.jcad.cn/).
-
+</details>
 
 # 📝 Publications 
 #### JOURNAL PUBLICATIONS
@@ -285,6 +290,8 @@ Xin Liu, Girish Narayanswamy, Akshay Paruchuri, Xiaoyu Zhang, **Jiankai Tang**, 
 
 
 # 🎖 Honors and Awards
+- *2024* **First Prize** in Ubiquitous Intelligent Sensing Technology Innovation Application Competition(Top 5).
+- *2024* **First Prize** in the National Biomedical Engineering Innovation Competition(Top 5%). 
 - *2024* **Excellent Graduation Thesis** at Tsinghua University（Top 1 in Department）.
 - *2024* **Outstanding Graduate** at Tsinghua University（Top 10%）.
 - *2024* **Best Presentation Award** at Tsinghua University Initiative Scientific Research Program Forum(Top 5).
