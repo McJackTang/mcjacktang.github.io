@@ -46,6 +46,7 @@ redirect_from:
 
 **2024.2:** 🎉🎉 Our paper [A Comprehensive Dataset and Automated Pipeline for Nailfold Capillary Analysis](https://doi.org/10.48550/arXiv.2312.05930) has been accepted by [ISBI 2024](https://biomedicalimaging.org/2024/).
 
+{% raw %}
 <details>
   <summary>See More</summary>
   
@@ -63,6 +64,7 @@ redirect_from:
   
   **2023.3:** 🎉🎉 Our paper addressed [Privacy-Friendly Gait Data Acquisition and Emotion Recognition](https://kns.cnki.net/kcms2/article/abstract?v=ebrKgZyeBkxJAkKmLRGB8ZBzoL0_JE1z5CJDrfO0vn9sAN5P7cZCI7TMzal9BZkSQQ-tNRL5sj5jZJV8Erzh5u0t4amz6h_o_KdkPSubDPVnvkfMkClSYlPa5iaNSWFktEGmXFOfGWIXzhFL20NQyw==&uniplatform=NZKPT&language=CHS) has been accepted by [JCAD](https://www.jcad.cn/).
 </details>
+{% endraw %}
 
 # 📝 Publications 
 #### JOURNAL PUBLICATIONS
@@ -140,7 +142,7 @@ Hong Xiao, **Jiankai Tang**, Christine Qiu, Xinyi Fu
 
 ## [Summit Vitals: Multi-Camera and Multi-Signal Biosensing at High Altitudes ![](https://img.shields.io/github/stars/thuhci/SUMS?style=social)](https://github.com/thuhci/SUMS)
 
-Ke Liu*, **Jiankai Tang*(*Co-first Author)**, Zhang Jiang, Yuntao Wang, Xiaojing Liu, Dong Li, Yuanchun Shi
+Ke Liu*, **Jiankai Tang**(Co-first Author), Zhang Jiang, Yuntao Wang, Xiaojing Liu, Dong Li, Yuanchun Shi
 
 [UIC'24](https://www.ieee-smart-world.org/2024/uic/). 
 
