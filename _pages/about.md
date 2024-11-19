@@ -308,14 +308,14 @@ Xin Liu, Girish Narayanswamy, Akshay Paruchuri, Xiaoyu Zhang, **Jiankai Tang**, 
 
 
 # 💬 Invited Talks
-- *2024.04*, Commencement Ceremony, Xinya College, Tsinghua University
+- *2024.06*, Commencement Ceremony, Xinya College, Tsinghua University
 - *2024.04*, LLM Applications in Social Work, Tsinghua University
 - *2023.07*, MMPD Presentation, IEEE Engineering in Medicine and Biology Society
 - *2022.12*, Creative Software, Xinya College, Tsinghua University
 - *2022.05*, Patent Writing, Xinya College, Tsinghua University
 
 # 💻 Internships
-- *2024.01 - Now*, [Ant Group](https://www.antgroup.com/) Tianji Lab, China.
+- *2024.01 - Now*, [Ant Group](https://www.antgroup.com/) Pedcha Lab, China.
 - *2023.06 - 2023.11*, [Zhipu AI](https://www.zhipuai.cn/en/) ChatGLM Group, China.
 
 <!-- 
@@ -327,7 +327,7 @@ Xin Liu, Girish Narayanswamy, Akshay Paruchuri, Xiaoyu Zhang, **Jiankai Tang**, 
 
 
 # 👨🏻‍🎓 Service and Leadership
-- Conference Reviewers: MobileHCI'24
+- Conference Reviewers: MobileHCI'24, IMWUT
 - 2024-Now: Science and Innovation Mentor, Xinya College, Tsinghua University
 - 2023-Now: Chairman of Hunan Culture Association,  Tsinghua University
 - 2021-2023: Leader of Creative Design and Intelligent Engineering. CDIE9 was honored with the award of “Excellent Academic Class”.
