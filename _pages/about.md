@@ -26,6 +26,8 @@ redirect_from:
 
 # 🔥 News
 
+**2024.11:** Awarded the **Excellent Graduation Thesis** by Beijing Municipal Education Commission.
+
 **2024.11:** Awarded the **First Prize** in Ubiquitous Intelligent Sensing Technology Innovation Application Competition(Top 5).
 
 **2024.10:** 🎉🎉 Our paper [Summit Vitals: Multi-Camera and Multi-Signal Biosensing at High Altitudes](https://arxiv.org/abs/2409.19223) has been accepted by [UIC'24](https://www.ieee-smart-world.org/2024/uic/) as REGULAR RESEARCH PAPER(Accept Rate: 20.95%).
@@ -274,6 +276,7 @@ Xin Liu, Girish Narayanswamy, Akshay Paruchuri, Xiaoyu Zhang, **Jiankai Tang**, 
 
 
 # 🎖 Honors and Awards
+- *2024* **Excellent Graduation Thesis**, Beijing Municipal Education Commission(Top 0.8%).
 - *2024* **First Prize** in Ubiquitous Intelligent Sensing Technology Innovation Application Competition(Top 5).
 - *2024* **First Prize** in the National Biomedical Engineering Innovation Competition(Top 5%). 
 - *2024* **Excellent Graduation Thesis** at Tsinghua University（Top 1 in Department）.
@@ -327,7 +330,8 @@ Xin Liu, Girish Narayanswamy, Akshay Paruchuri, Xiaoyu Zhang, **Jiankai Tang**, 
 
 
 # 👨🏻‍🎓 Service and Leadership
-- Conference Reviewers: MobileHCI'24, IMWUT
+- Conference Reviewers: MobileHCI'24
+- Journal Reviewers: IMWUT
 - 2024-Now: Science and Innovation Mentor, Xinya College, Tsinghua University
 - 2023-Now: Chairman of Hunan Culture Association,  Tsinghua University
 - 2021-2023: Leader of Creative Design and Intelligent Engineering. CDIE9 was honored with the award of “Excellent Academic Class”.
