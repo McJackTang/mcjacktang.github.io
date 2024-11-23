@@ -126,7 +126,7 @@ Hong Xiao, **Jiankai Tang**, Christine Qiu, Xinyi Fu
 
 ## [Summit Vitals: Multi-Camera and Multi-Signal Biosensing at High Altitudes ![](https://img.shields.io/github/stars/thuhci/SUMS?style=social)](https://github.com/thuhci/SUMS)
 
-Ke Liu*, **Jiankai Tang**(Co-first Author), Zhang Jiang, Yuntao Wang, Xiaojing Liu, Dong Li, Yuanchun Shi
+Ke Liu*, **Jiankai Tang\*** (\*Co-first Author), Zhang Jiang, Yuntao Wang, Xiaojing Liu, Dong Li, Yuanchun Shi
 
 [UIC'24](https://www.ieee-smart-world.org/2024/uic/). 
 
