@@ -144,7 +144,30 @@ Ke Liu*, **Jiankai Tang\*** (\*Co-first Author), Zhang Jiang, Yuntao Wang, Xiaoj
 <!-- --------------------------------------------------------------------------------------------------------------- -->
 
 <!-- --------------------------------------------------------------------------------------------------------------- -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PhysioCHI 2024</div><img src='../images/PhysioCHI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIC 2024</div><img src='../images/HRV_UIC24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## [Camera-Based HRV Prediction for Remote Learning Environments ![](https://img.shields.io/github/stars/KegangWangCCNU/RLAP-dataset?style=social)](https://github.com/KegangWangCCNU/RLAP-dataset)
+
+Kegang Wang, Yantao Weia, **Jiankai Tang**, Yuntao Wang, Mingwen Tong, Jie Gao, Yujian Ma, Zhongjin Zhao
+
+[UIC'24](https://www.ieee-smart-world.org/2024/uic/). 
+
+<div class="extra-links">
+    <a class="_blank" href="https://arxiv.org/pdf/2305.04161" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+      <a class="_blank" href="https://github.com/KegangWangCCNU/RLAP-dataset">
+        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
+    </a>
+</div>
+
+</div>
+</div>
+<!-- --------------------------------------------------------------------------------------------------------------- -->
+
+<!-- --------------------------------------------------------------------------------------------------------------- -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2024</div><img src='../images/PhysioCHI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## [Camera-Based Remote Physiology Sensing for Hundreds of Subjects Across Skin Tones ![](https://img.shields.io/github/stars/Health-HCI-Group/Largest_rPPG_Dataset_Evaluation?style=social)](https://github.com/Health-HCI-Group/Largest_rPPG_Dataset_Evaluation)
@@ -165,6 +188,8 @@ Ke Liu*, **Jiankai Tang\*** (\*Co-first Author), Zhang Jiang, Yuntao Wang, Xiaoj
 </div>
 </div>
 <!-- --------------------------------------------------------------------------------------------------------------- -->
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISBI 2024</div><img src='../images/Nailfold.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
