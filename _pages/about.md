@@ -26,6 +26,8 @@ redirect_from:
 
 # 🔥 News
 
+**2025.1:** Our paper [Spiking-PhysFormer: Camera-BasedRemote Photoplethysmography withParallel Spike-driven Transformer](https://arxiv.org/abs/2402.04798) has been accepted by [Neural Networks](https://www.sciencedirect.com/journal/neural-networks)(Q1, IF:6.0).
+
 **2024.11:** Awarded the **Excellent Graduation Thesis** by Beijing Municipal Education Commission.
 
 **2024.11:** Awarded the **First Prize** in Ubiquitous Intelligent Sensing Technology Innovation Application Competition(Top 5).
@@ -84,7 +86,7 @@ Xiyuxing Zhang, Yuntao Wang, Yuxuan Han, Chen Liang, Ishan Chatterjee, **Jiankai
 
 Mingxuan Liu\*, **Jiankai Tang\*** (\*Co-first Author), Haoxiang Li, Jiahao Qi, Siwei Li, Kegang Wang, Yuntao Wang, Hong Chen
 
-Neural Networks, Under Review
+[Neural Networks](https://www.sciencedirect.com/journal/neural-networks)
 
 <div class="extra-links">
     <a class="_blank" href="https://arxiv.org/abs/2402.04798" >
